@@ -11,8 +11,8 @@ The goal is to identify groups such as:
 
 By understanding these segments, businesses can create targeted strategies for marketing and retention.
 File | Description |
-| `customer_segmentation.Rmd` | R Markdown file with full workflow |
-| `customer_segmentation.docx` | Knitted Word report with plots & insights |
+| `superstore.k-clus.Rmd` | R Markdown file with full workflow |
+| `superstore.k-clus.docx` | Knitted Word report with plots & insights |
 | `Sample - Superstore.csv` | Dataset used (optional) |
 | `README.md` |
 
