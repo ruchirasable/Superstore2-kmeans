@@ -80,7 +80,7 @@ customer_data %>%
 This table helps us understand the behavior of each customer segment.
 
 #Business Insights
-## 🧠 Cluster Insights
+## Cluster Insights
 
 - **Cluster 1 – High-Value Customers**  
   High sales and profit, low discount usage, frequent orders. Ideal for loyalty campaigns.
